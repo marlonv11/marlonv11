@@ -47,7 +47,7 @@ Sistema en **Laravel + MySQL** para gestión de citas en el área estética.
 ---
 
 ## 📫 Let's Connect
-- ✉️ Email: **marlon.velez@globant.com**  
+- ✉️ Email: **velezmarlon72@gmail.com**  
 - 📱 Cellphone: **+57 316 783 1145**  
 - 💼 LinkedIn: [linkedin.com/in/marlon-velez-b60529383](https://www.linkedin.com/in/marlon-velez-b60529383)  
 
